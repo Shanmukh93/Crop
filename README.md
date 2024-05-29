@@ -1,4 +1,4 @@
-# Crop
+# Crop Yield Prediction
 Crop yield prediction is an essential predictive analytics technique in the agriculture 
 industry. It is an agricultural practice that can help farmers and farming businesses predict 
 crop yield in a particular season when to plant a crop, and when to harvest for better crop 
